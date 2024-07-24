@@ -1,0 +1,52 @@
+.grid{
+    margin: 50px 0 0;
+}
+
+.logo{
+    flex: 0 0 auto;
+    text-decoration: none;
+    margin-top: 5px;
+    font-size:xx-large;
+    color: white;
+    font-weight: bolder;
+    width: 25%;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between; 
+    /* align-items: center; */
+    margin: 0%;
+    padding: 0rem;
+    background-color: #34495E;
+
+}
+.col{
+    width: 75%;
+}
+
+.btn{
+    /* flex: 1 0 auto;  */
+    text-align: center;
+    font-size: large;
+    border: 0px solid;
+    border-radius: 5px;
+    margin: 6px 0px;
+    padding: 18px 15px;
+    background-color: #1ABC9C;
+    color: azure;
+    cursor: pointer;
+    
+}
+
+.btn-clear{
+    padding:5px;
+    margin: 5px;
+    width: 25%;
+    border: 0px solid;
+    border-radius: 5px;
+    background-color: #1ABC9C;
+    font-size:large;
+    color: white;
+    cursor: pointer;
+}
